@@ -1,5 +1,6 @@
 <?php
-$v = "3.6.6";
+require 'version/conf.php';
+$v = $jsonapi_version;
 ?><!doctype html>
 <html lang="en">
 	<head>
