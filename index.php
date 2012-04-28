@@ -19,7 +19,7 @@ $v = $jsonapi_version;
 				<div class="span4" id="sidebar">
 					<ul class="blocks">
 						<li class="download">
-							<a class="download-link" href="version/latest/">Download<span>JSONAPI v<? echo $v;?>.zip</span></a>
+							<a class="download-link" href="version/latest/">Download<span>JSONAPI v<?php echo $v;?>.zip</span></a>
 						</li>
 						<li class="sep">&nbsp;</li>
 						<li><a href="apidocs/">API Docs</a></li>
