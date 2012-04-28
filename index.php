@@ -7,6 +7,7 @@ $v = $jsonapi_version;
 		<title>JSONAPI &mdash; a Bukkit plugin.</title>
 		<meta name="description" value="JSONAPI is an HTTP, Socket and WebSocket API for control and data extraction on a Bukkit server." />
 		<meta name="author" value="Alec Gorge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
 		<link type="text/css" rel="stylesheet" href="css/bootstrap-responsive.min.css" />
