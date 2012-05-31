@@ -44,7 +44,7 @@ $v = $jsonapi_version;
 
 					<h2>Download</h2>
 
-					<p><a href="http://alecgorge.com/minecraft/jsonapi/version/latest/">Download JSONAPI v3.6.0 (for Minecraft 1.1-R6 and Minecraft 1.2)</a></p>
+					<p><a href="http://alecgorge.com/minecraft/jsonapi/version/latest/">Download JSONAPI v3.7.6 (for Minecraft 1.2)</a></p>
 
 					<p>You can find the source code on GitHub at <a href="http://github.com/alecgorge/jsonapi">alecgorge/jsonapi</a>. I accept pull requests!</p>
 
