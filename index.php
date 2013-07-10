@@ -37,7 +37,8 @@ $v = $jsonapi_version;
 					</ul>
 				</div>
 				<div class="span8" id="content">
-<article class="markdown-body entry-content" itemprop="mainContentOfPage"><p>JSONAPI is a plugin for Bukkit that allows you to access data and other information about your server and your players through a simple, yet secure, HTTP API. This allows you to make <strong>awesome websites</strong>, <strong>iPhone apps</strong>, and a way for your <strong>players to purchase goods online and automatically receive them in game</strong>.</p>
+					<h1>JSONAPI</h1>
+<p>JSONAPI is a plugin for Bukkit that allows you to access data and other information about your server and your players through a simple, yet secure, HTTP API. This allows you to make <strong>awesome websites</strong>, <strong>iPhone apps</strong>, and a way for your <strong>players to purchase goods online and automatically receive them in game</strong>.</p>
 
 <p>However, this plugin won't do all of that by itself. It is simply an API that allows you to assemble the features in a way that makes sense for your needs.</p>
 
@@ -114,8 +115,8 @@ $v = $jsonapi_version;
 <li><a href="http://spacebukkit.xereo.net/">SpaceBukkit</a></li>
 <li><a href="http://dev.bukkit.org/server-mods/heroicdeath/">HeroicDeath</a></li>
 <li>SimpServ</li>
-</ul><h1>
-<a name="a-big-thanks-to-yourkit" class="anchor" href="#a-big-thanks-to-yourkit"><span class="octicon octicon-link"></span></a>A big thanks to YourKit!</h1>
+</ul><h2>
+<a name="a-big-thanks-to-yourkit" class="anchor" href="#a-big-thanks-to-yourkit"><span class="octicon octicon-link"></span></a>A big thanks to YourKit!</h2>
 
 <p>YourKit is kindly supporting JSONAPI open source project with its full-featured Java Profiler.
 YourKit, LLC is the creator of innovative and intelligent tools for profiling
@@ -123,7 +124,7 @@ Java and .NET applications. Take a look at YourKit's leading software products:
 <a href="http://www.yourkit.com/java/profiler/index.jsp">YourKit Java Profiler</a> and
 <a href="http://www.yourkit.com/.net/profiler/index.jsp">YourKit .NET Profiler</a>.</p>
 
-<p><a href="https://bitdeli.com/free" title="Bitdeli Badge"><img src="https://d2weczhvl823v0.cloudfront.net/alecgorge/jsonapi/trend.png" alt="Bitdeli Badge" style="max-width:100%;"></a></p></article>
+<p><a href="https://bitdeli.com/free" title="Bitdeli Badge"><img src="https://d2weczhvl823v0.cloudfront.net/alecgorge/jsonapi/trend.png" alt="Bitdeli Badge" style="max-width:100%;"></a></p>
 				</div>
 			</div>
 			<div class="row">
