@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+rm -rf www/ build/
+
+wget "https://ci.alecgorge.com/job/JSONAPI/lastSuccessfulBuild/artifact/site/mcjsonapi.com.tar.gz"
+
+tar xvzf mcjsonapi.com.tar.gz
+
+echo "Moving build/ to www/"
+mv build/ www/
+
+rm -f mcjsonapi.com.tar.gz
