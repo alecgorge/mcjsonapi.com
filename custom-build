@@ -1,4 +1,6 @@
-#!/usr/bin/env bash
+ #!/usr/bin/env bash
+
+cd "$1"
 
 rm -rf www/ build/
 
